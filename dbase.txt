@@ -1,0 +1,7 @@
+name,number,wonCompetitions,participations,chancesToStep,elo
+Jose,33,5,13,60.0,31.998445548910176
+Goku,67,1,3,50.0,16.671732819401335
+Daniela Avanzini,22,1,3,35.0,0.0
+Mbappe,7,1,1,85.0,20.489371133176814
+Alba,8,2,7,38.0,0.0
+Usain Bolt,63,7,8,90.0,79.68245996739003
